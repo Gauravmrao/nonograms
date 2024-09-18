@@ -17,8 +17,6 @@ The puzzle is "solved" if the shaded squares match the clues. Non-shaded squares
 
 ## Running the application
 
-This assignment uses Maven as a build manager, and JavaFX as a GUI library. Since JavaFX is an external library, it is included in the build process in order for the application to successfully run. JavaFX has been added as a Maven dependency to the POM file.
-
 To run the application with Maven in IntelliJ, follow these steps:
 
 1. Click the vertical "Maven" expansion tab which is on the right side of the IntelliJ window.

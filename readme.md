@@ -4,7 +4,7 @@
 
 This project used a **model-view-controller** design pattern together with the **JavaFX** UI library to design a complete, functioning GUI implementation of the single-player logic puzzle **nonograms**.
 
-If you've never heard of nonograms before, I highly suggest starting by checking out [the nonograms Wikipedia page](https://en.wikipedia.org/wiki/Nonogram). After you do that, [try solving a few nonogram puzzles](https://www.puzzle-nonograms.com/) yourself to make sure you've got the hang of it.
+If you've never heard of nonograms before, check out [the nonograms Wikipedia page](https://en.wikipedia.org/wiki/Nonogram). After you do that, [try solving a few nonogram puzzles](https://www.puzzle-nonograms.com/) yourself to make sure you've got the hang of it.
 
 The user interacts with the game through the following:
 
